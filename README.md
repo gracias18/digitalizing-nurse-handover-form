@@ -72,4 +72,4 @@ MHI2001 — University of Toronto (2025)
 
 ## Links
 - [View Figma Prototype](https://www.figma.com/make/VkbTP6b3QXEzBrNcuPgSi9/Healthcare-Handover-Form?node-id=0-1&t=A74g2kr7JsrpuKcA-1)
-- [View Presentation](MHI2001 - Digitalizing a Form.pdf)
+- [View Presentation](MHI2001%20-%20Digitalizing%20a%20Form.pdf)
